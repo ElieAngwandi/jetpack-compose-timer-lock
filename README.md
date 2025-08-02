@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b02320e0-7c7e-4532-bd0b-36de624e2224" />
 # Projet de Test
 
 Il s'agit d'une application Android développée avec **Jetpack Compose**, qui démontre l'utilisation de **SharedPreferences** pour le stockage local de données et le rendu conditionnel de l'interface utilisateur basé sur le temps.
